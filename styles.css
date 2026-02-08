@@ -5,4 +5,9 @@ header {
   top: 0;
   width: 0%;
   height: 3%;
+  text-decoration: none;
+}
+.headerLinks {
+  text-decoration: none;
+  color: white;
 }
