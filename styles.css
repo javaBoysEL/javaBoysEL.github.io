@@ -10,6 +10,8 @@
   text-decoration: none;
   color: white;
   font-size: 23px;
+  margin-right: 5px;
+  margin-left: 5px;
 }
 .headerSpace {
   width: 50px;
