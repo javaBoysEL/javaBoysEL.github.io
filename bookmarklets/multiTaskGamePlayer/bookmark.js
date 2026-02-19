@@ -28,7 +28,7 @@ gamePlayerCredits.textContent = "javaboysel.github.io";
 gamePlayerCredits.className = "gamePlayerT";
 
 const STYLE = document.createElement("STYLE");
-STYLE.innerHTML = `
+STYLE.innerHTML = "
 #gamePlayer {
 background-color: black;
 color: white;
@@ -55,7 +55,7 @@ background-color: gray;
 color: white;
 font-family: Monospace;
 }
-`;
+";
 document.body.appendChild(gamePlayer);
 gamePlayer.appendChild(gamePlayTitle);
 gamePlayer.appendChild(gamePlayFrameWrap);
