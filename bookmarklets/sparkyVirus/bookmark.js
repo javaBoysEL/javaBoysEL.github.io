@@ -1,4 +1,4 @@
-document.getElementById("bookmark").href = ’
+document.getElementById("bookmark").href = `
 javascript:function generateP() {
 var virus = document.createElement("div");
 virus.style.position = "fixed";
