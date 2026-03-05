@@ -23,8 +23,8 @@
             document.body.appendChild(doge);
         }
         
-        // Add a new doge every 50 milliseconds (50ms = 20 per second)
-        setInterval(createDoge, 50);
+        // Add a new doge every 20 milliseconds (20ms = 20 per second)
+        setInterval(createDoge, 20);
     </script>
 </body>
 </html>
